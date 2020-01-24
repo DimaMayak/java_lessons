@@ -2,7 +2,7 @@ public class ClassesAndObjects {
     public static void main(String[] args){
         Person person1 = new Person();
         person1.age=10;
-        person1.setName("Vas");
+        person1.setName("Vasya");
         person1.speak();
         person1.sayHallo();
         System.out.println(person1.method1());
